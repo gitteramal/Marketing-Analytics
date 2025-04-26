@@ -1,1 +1,1 @@
-# Marketing-Analytics
+Marketing data analysis using Python SQL and PowerBI
